@@ -120,6 +120,7 @@ const theme = createMuiTheme({
       engagedGreen: Colors.green400,
       alertOrange: Colors.orange50,
       alertRed: Colors.red100,
+      bookmarkYellow: Colors.yellow500,
     },
     grey: {
       50: Colors.grey50,

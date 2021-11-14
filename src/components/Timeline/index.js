@@ -62,7 +62,10 @@ const styles = (/* theme */) => ({
       '&.critical': {
         background: theme.palette.states.alertRed,
       }
-    }
+    },
+    '&.bookmark': {
+      background: theme.palette.states.bookmarkYellow,
+    },
   },
   thumbnails: {
     height: 24,
